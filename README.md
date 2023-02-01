@@ -1,6 +1,6 @@
-# Iosevka-term-slab WebFont 17.1.0
+# Iosevka Term Slab WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-term-slab/Iosevka-term-slab.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevka term slab Web'` or `font-family: 'Iosevka term slab Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevka-term-slab/iosevka-term-slab.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Term Slab Web'` or `font-family: 'Iosevka Term Slab Web'`.
