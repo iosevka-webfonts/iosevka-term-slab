@@ -1,4 +1,4 @@
-# Iosevka Term Slab WebFont 24.1.3
+# Iosevka Term Slab WebFont 24.1.4
 
 ## How to use
 
